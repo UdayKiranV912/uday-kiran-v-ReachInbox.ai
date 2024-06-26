@@ -55,8 +55,7 @@ Response:
   - To get list of emails of a user
   - Example:
 ```json
-GET /gmail/list/dmdhaneef786gmail.com
-
+GET /gmail/list/udaykiranv.312179@gmail.com
 Response:
 {
     "messages": [
